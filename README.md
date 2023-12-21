@@ -1,6 +1,25 @@
 # GodPotato script for Havoc C2
 
-![Havoc Logo](https://github.com/HavocFramework/Havoc/blob/master/docs/logo.png)
+![Havoc Logo](https://github.com/HavocFramework/Havoc/raw/main/assets/Havoc.png)
+
+```
+
+    FFFFF                   FFF  FFFFFFF
+   FFFFFFF                  FFF  FFFFFFFF
+  FFF  FFFF                 FFF  FFF   FFF             FFF                  FFF
+  FFF   FFF                 FFF  FFF   FFF             FFF                  FFF
+  FFF   FFF                 FFF  FFF   FFF             FFF                  FFF
+ FFFF        FFFFFFF   FFFFFFFF  FFF   FFF  FFFFFFF  FFFFFFFFF   FFFFFF  FFFFFFFFF    FFFFFF
+ FFFF       FFFF FFFF  FFF FFFF  FFF  FFFF FFFF FFFF   FFF      FFF  FFF    FFF      FFF FFFF
+ FFFF FFFFF FFF   FFF FFF   FFF  FFFFFFFF  FFF   FFF   FFF      F    FFF    FFF     FFF   FFF
+ FFFF   FFF FFF   FFFFFFF   FFF  FFF      FFFF   FFF   FFF         FFFFF    FFF     FFF   FFFF
+ FFFF   FFF FFF   FFFFFFF   FFF  FFF      FFFF   FFF   FFF      FFFFFFFF    FFF     FFF   FFFF
+  FFF   FFF FFF   FFF FFF   FFF  FFF       FFF   FFF   FFF     FFFF  FFF    FFF     FFF   FFFF
+  FFFF FFFF FFFF  FFF FFFF  FFF  FFF       FFF  FFFF   FFF     FFFF  FFF    FFF     FFFF  FFF
+   FFFFFFFF  FFFFFFF   FFFFFFFF  FFF        FFFFFFF     FFFFFF  FFFFFFFF    FFFFFFF  FFFFFFF
+    FFFFFFF   FFFFF     FFFFFFF  FFF         FFFFF       FFFFF   FFFFFFFF     FFFF     FFFF
+```
+
 
 ## Description
 This script is intended to facilitate usage of GodPotato exploit using Havoc `DotnetInlineExecute` feature.
