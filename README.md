@@ -25,14 +25,12 @@
 This script is intended to facilitate usage of GodPotato exploit using Havoc `DotnetInlineExecute` feature.
 
 ## Installation
-1. Go to your Havoc folder
-2. `cd data/extensions/`
-3. `git clone https://github.com/xl00t/Havoc-GodPotato && cd Havoc-GodPotato/`
-4. `bash install.sh`
-5. ![install1.png](assets/imgs/install1.png)
-6. Click script manager
-7. Click load script
-8. And then choose GodPotato.py file.
+1. `git clone https://github.com/xl00t/Havoc-GodPotato && cd Havoc-GodPotato/`
+2. `bash install.sh`
+3. ![install1.png](assets/imgs/install1.png)
+4. Click script manager
+5. Click load script
+6. And then choose GodPotato.py file.
 
 
 ## Usage
